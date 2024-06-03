@@ -1,4 +1,3 @@
-# Marksheet_Pdf
-Sample_Marksheet Generated Using Java
-<br>
-Author- Ankush Agarwal
+#Marksheet PDF Generator
+
+This project generates a PDF marksheet using Java, JDBC, MySQL, and iText API. The generated PDF contains students' details and their marks for various subjects.
